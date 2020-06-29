@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.10.0",
+    "libraryName": "global-news-webparts",
+    "libraryId": "212035f6-f139-4a58-a068-ce1ffeb3303b",
+    "packageManager": "npm",
+    "isDomainIsolated": true,
+    "componentType": "webpart"
+  }
+}

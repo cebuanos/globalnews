@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "global-news-webparts-client-side-solution",
+    "id": "212035f6-f139-4a58-a068-ce1ffeb3303b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/global-news-webparts.sppkg"
+  }
+}
